@@ -1,0 +1,14 @@
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\bin\Debug\net8.0\UsingBuilder.exe
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\bin\Debug\net8.0\UsingBuilder.deps.json
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\bin\Debug\net8.0\UsingBuilder.runtimeconfig.json
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\bin\Debug\net8.0\UsingBuilder.dll
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\bin\Debug\net8.0\UsingBuilder.pdb
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\obj\Debug\net8.0\UsingBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\obj\Debug\net8.0\UsingBuilder.AssemblyInfoInputs.cache
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\obj\Debug\net8.0\UsingBuilder.AssemblyInfo.cs
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\obj\Debug\net8.0\UsingBuilder.csproj.CoreCompileInputs.cache
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\obj\Debug\net8.0\UsingBuilder.dll
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\obj\Debug\net8.0\refint\UsingBuilder.dll
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\obj\Debug\net8.0\UsingBuilder.pdb
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\obj\Debug\net8.0\UsingBuilder.genruntimeconfig.cache
+C:\Users\SOFT\Desktop\BuilderDesignpattern\UsingBuilder\obj\Debug\net8.0\ref\UsingBuilder.dll

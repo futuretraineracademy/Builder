@@ -1,0 +1,6 @@
+Bir sýnýf yaratýlýrken, sýnýfýn özelliklerine doðrudan eriþim olmamalýdýr.
+Sýnýfýn fieldlarý dýþarýya açýlýrken ya kapsüllenmiþ propertyler þeklinde
+yada constructor vasýtasý ile açýlmalýdýr.
+
+Tam olarak bu noktada, bu kod karmaþasý, kod güvensizliði ve 2 üzeri n constructor problemlerinin
+çözümü için Builder design pattern devreye giriyor.
